@@ -30,7 +30,7 @@ Actualmente me encuentro cursando la ultima etapa del bootcamp Henry con +800 ho
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/linkedin_logo_icon_124342.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/whatsapp_logo_icon_124358.png" height="40" width="40" /></a>
+  <a href="https://walink.co/0dc0a1/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/whatsapp_logo_icon_124358.png" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/gmail_logo_icon_124335.png" height="40" width="40" /></a>
 </p>
 
