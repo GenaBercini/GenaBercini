@@ -1,4 +1,4 @@
-![Hola soy Genaro!](https://user-images.githubusercontent.com/86481813/162259537-3b22360d-1d60-49c9-b327-1c0438f8cbf1.gif)
+![Hi, I am Genaro !](https://user-images.githubusercontent.com/86481813/162516749-9cce0723-cfad-4305-8c6a-3333f7c9cf6a.gif)
 <h2 align="center">
 Desarrollador Full Stack de Argentina:earth_americas:
 </h2>
