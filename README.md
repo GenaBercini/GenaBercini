@@ -5,7 +5,7 @@ Full Stack Developer from Argentina :earth_americas:
 <h3 align="center">About me</h3>⁣
   <p align="center"><b>Hello!</b> my name is Genaro I am 22 years old and I live in Rosario, Santa Fe, Argentina.</p><br>
  <p align="center">At the beginning of 2021 I started practicing web programming as a hobby. At middle of 2021, I decided to change the direction of my life starting to study with a purpose and more intensively that new passion I had found. At the end of 2021 I found Henry and a great opportunity to exponentially increase my knowledge of the IT world. At this moment I am at the end of Henry’s final stage and I’m very eager to demonstrate my technical and soft skills.</p>
-<h4 align="center">If you want to know more about my contact me</h4>
+<h4 align="center">If you want to know more about me, contact with me</h4>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
