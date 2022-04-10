@@ -6,6 +6,12 @@ Full Stack Developer from Argentina :earth_americas:
   <p align="center"><b>Hello!</b> my name is Genaro I am 22 years old and I live in Rosario, Santa Fe, Argentina.</p><br>
  <p align="center">At the beginning of 2021 I started practicing web programming as a hobby. At middle of 2021, I decided to change the direction of my life starting to study with a purpose and more intensively that new passion I had found. At the end of 2021 I found Henry and a great opportunity to exponentially increase my knowledge of the IT world. At this moment I am at the end of Henry’s final stage and I’m very eager to demonstrate my technical and soft skills.</p>
 <h4 align="center">If you want to know more about me, contact me</h4>
+<h3>:pushpin: My proyects</h3>
+<p align="center">
+<a href="https://pi-food-six.vercel.app/home"><img src='https://user-images.githubusercontent.com/86481813/162600696-9bf74cf8-aa97-4d36-9d1a-546f6d10ec10.png' width='300px'/></a>
+<a href="https://pi-food-six.vercel.app/home"><img src='https://user-images.githubusercontent.com/86481813/162600866-fb85c45d-0f3f-4a19-9c45-bb08aaeabf3f.png' width='300px'/></a>
+<a href="https://pi-food-six.vercel.app/home"><img src='https://user-images.githubusercontent.com/86481813/162600722-a4968a67-0727-42bf-8368-6001c9e42386.png' width='300px'></a>
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
@@ -20,7 +26,6 @@ Full Stack Developer from Argentina :earth_americas:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
