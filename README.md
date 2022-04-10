@@ -32,7 +32,7 @@ Full Stack Developer from Argentina :earth_americas:
 <p align="center">
   <a href="https://wa.me/5493413029601" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/855/PNG/512/WhatsApp_social_media_corporate_logo_icon-icons.com_67680.png" height="40" width="40" /></a>
   <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/855/PNG/512/LinkedIn_social_media_corporate_logo_icon-icons.com_67681.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2120/PNG/512/mail_email_message_envelope_icon_131245.png" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2120/PNG/512/mail_email_message_envelope_icon_131245.png" height="50" width="50" /></a>
 </p>
 
 </br>
