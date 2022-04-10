@@ -30,9 +30,9 @@ Full Stack Developer from Argentina :earth_americas:
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/linkedin_logo_icon_124342.png" height="40" width="40" /></a>
-  <a href="https://wa.me/5493413029601" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/whatsapp_logo_icon_124358.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2044/PNG/512/gmail_logo_icon_124335.png" height="40" width="40" /></a>
+  <a href="https://wa.me/5493413029601" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/855/PNG/512/WhatsApp_social_media_corporate_logo_icon-icons.com_67680.png" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/855/PNG/512/LinkedIn_social_media_corporate_logo_icon-icons.com_67681.png" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2120/PNG/512/mail_email_message_envelope_icon_131245.png" height="40" width="40" /></a>
 </p>
 
 </br>
