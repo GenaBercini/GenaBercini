@@ -9,9 +9,9 @@ Full Stack Developer from Argentina :earth_americas:
 <h4 align="center">If you want to know more about me, contact me</h4>
 <h3>:pushpin: My proyects</h3>
 <p align="center">
-<a href="https://pi-food-six.vercel.app/home"><img src='https://user-images.githubusercontent.com/86481813/162600696-9bf74cf8-aa97-4d36-9d1a-546f6d10ec10.png' width='30%'/></a>
-<a href="https://pi-food-six.vercel.app/home"><img src='https://user-images.githubusercontent.com/86481813/162600866-fb85c45d-0f3f-4a19-9c45-bb08aaeabf3f.png' width='30%'/></a>
-<a href="https://pi-food-six.vercel.app/home"><img src='https://user-images.githubusercontent.com/86481813/162600722-a4968a67-0727-42bf-8368-6001c9e42386.png' width='30%'></a>
+<a href='https://pi-food-six.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/167527370-fcc7e33a-3bcd-47bb-97b5-f189bde2becf.png' width='30%'/></a>
+<a href="https://pi-food-six.vercel.app/"><img src='https://user-images.githubusercontent.com/86481813/167527292-35490f8b-b53f-4439-8c1d-04cf0fdd702d.png' width='30%'/></a>
+<a href="https://pi-food-six.vercel.app/"><img src='https://user-images.githubusercontent.com/86481813/167527207-180921c4-cac4-429c-9ea3-2faf0441b650.png' width='30%'></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
