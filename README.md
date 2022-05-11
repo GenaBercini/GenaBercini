@@ -8,6 +8,7 @@ Full Stack Developer from Argentina :earth_americas:
  <p align="center">At the beginning of 2021 I started practicing web programming as a hobby. At middle of 2021, I decided to change the direction of my life starting to study with a purpose and more intensively that new passion I had found. At the end of 2021 I found Henry and a great opportunity to exponentially increase my knowledge of the IT world. At this moment I am at the end of Henry’s final stage and I’m very eager to demonstrate my technical and soft skills.</p>
 <h4 align="center">If you want to know more about me, contact me</h4>
 <h3>:pushpin: My proyects</h3>
+<p align="center"><b>Foods App</b></p>
 <p align="center">
 <a href='https://pi-food-six.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/167527370-fcc7e33a-3bcd-47bb-97b5-f189bde2becf.png' width='30%'/></a>
 <a href="https://pi-food-six.vercel.app/"><img src='https://user-images.githubusercontent.com/86481813/167527292-35490f8b-b53f-4439-8c1d-04cf0fdd702d.png' width='30%'/></a>
