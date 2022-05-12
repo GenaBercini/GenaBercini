@@ -27,31 +27,15 @@ Full Stack Developer from Argentina :earth_americas:
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://wa.me/5493413029601" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/855/PNG/512/WhatsApp_social_media_corporate_logo_icon-icons.com_67680.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/855/PNG/512/LinkedIn_social_media_corporate_logo_icon-icons.com_67681.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2120/PNG/512/mail_email_message_envelope_icon_131245.png" height="50" width="50" /></a>
+  <a href="https://wa.me/5493413029601" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86481813/167970853-fb5e8048-2387-4c61-8f31-4f93eb446e35.png" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86481813/167970921-ed27cd22-c9b4-4b70-8af3-28bb1df31975.png" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86481813/167970953-8ecf9dd0-fae7-4577-b1b9-7ecc3ecfe090.png" height="40" width="40" /></a>
 </p>
 
 </br>
 <h4 align="center">Visitor's :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{genabercini}/count.svg" alt="genabercini :: Visitor's Count" /></p>
-
-<!--
-**GenaBercini/GenaBercini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
