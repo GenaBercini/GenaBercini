@@ -10,9 +10,21 @@ Full Stack Developer from Argentina :earth_americas:
 <h3>:pushpin: My proyects</h3>
 <p align="center"><b>Foods App</b></p>
 <p align="center">
-<a href='https://pi-food-six.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/167527370-fcc7e33a-3bcd-47bb-97b5-f189bde2becf.png' width='30%'/></a>
-<a href="https://pi-food-six.vercel.app/"><img src='https://user-images.githubusercontent.com/86481813/167527292-35490f8b-b53f-4439-8c1d-04cf0fdd702d.png' width='30%'/></a>
-<a href="https://pi-food-six.vercel.app/"><img src='https://user-images.githubusercontent.com/86481813/167527207-180921c4-cac4-429c-9ea3-2faf0441b650.png' width='30%'></a>
+<a href='https://foods-page.vercel.app/'/><img src='https://user-images.githubusercontent.com/86481813/169378407-647857a7-1a91-4c4c-ba49-42c3ff19418c.png' width='49%'/></a>
+<a href="https://foods-page.vercel.app/"><img src='https://user-images.githubusercontent.com/86481813/169379874-0028faf7-a5f6-4039-9317-9d5cb329ea08.png' width='49%'/></a>
+</p>
+<p align="center">
+<a href='https://foods-page.vercel.app/'/><img src='https://user-images.githubusercontent.com/86481813/169432270-7bbbe524-2385-4635-b393-9ebfbfb1f719.png' width='49%'/></a>
+<a href="https://foods-page.vercel.app/"><img src='https://user-images.githubusercontent.com/86481813/169432321-7b6cd812-e011-4bb3-95f3-124d47b8d170.png' width='49%'/></a>
+</p>
+<p align="center"><b>Markets Center</b></p>
+<p align="center">
+<a href='https://markets-center.vercel.app/'/><img src='https://user-images.githubusercontent.com/86481813/168861669-26076838-33c5-49cb-a8e1-21c00493d3c6.png' width='49%'/></a>
+<a href='https://markets-center.vercel.app/'/><img src='https://user-images.githubusercontent.com/86481813/168862498-2c85b7e8-2314-413e-a3f3-3cddc029bd85.png' width='49%'/></a>
+</p>
+<p align="center">
+<a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/168863677-74c6c518-860d-4f5f-b781-cf238fb169b0.png' width='49%'/></a>
+<a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/168863917-8f3c8acd-3894-4f8a-98a8-c50532905bfd.png' width='49%'/></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
@@ -28,14 +40,8 @@ Full Stack Developer from Argentina :earth_americas:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://wa.me/5493413029601" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86481813/167970853-fb5e8048-2387-4c61-8f31-4f93eb446e35.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86481813/167970921-ed27cd22-c9b4-4b70-8af3-28bb1df31975.png" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/genarobercini/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/86481813/167970953-8ecf9dd0-fae7-4577-b1b9-7ecc3ecfe090.png" height="40" width="40" /></a>
-</p>
+<h2 align="left">:blush: Connect with me:</h2>
 
-</br>
-<h4 align="center">Visitor's :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{genabercini}/count.svg" alt="genabercini :: Visitor's Count" /></p>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genarobercini/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bercinigenaro@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493413029601)
