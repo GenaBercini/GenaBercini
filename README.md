@@ -22,7 +22,6 @@ Full Stack Developer from Argentina :earth_americas:
 <a href="https://mongoosejs.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/mongoose_hheiqr.png" alt="Mongoose" title='Mongoose' width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/materialui_adoozy.png" alt="MaterialUI" title='MaterialUI' width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669570/Portfolio/Skills/git_eoefu5.png" alt="Git" title='Git' width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669570/Portfolio/Skills/git_eoefu5.png" alt="Git" title='Git' width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/github_ozvo4h.png" alt="GitHub" title='GitHub' width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Linux " target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/linux_b0d3my.png" alt="Linux" title='Linux' width="40" height="40"/> </a>
 <h3>:pushpin: My proyects</h3>
