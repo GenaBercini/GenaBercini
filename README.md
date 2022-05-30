@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/86481813/167486098-2627ff2a-86a1-4f28-9c43-735a2e5f94a1.gif'/>
+<img src='https://user-images.githubusercontent.com/86481813/171028927-eb23de22-21e0-4cd0-ac9d-2386a5c84c3e.gif'/>
 
 <h2 align="center">
 Full Stack Developer from Argentina :earth_americas:
@@ -48,3 +48,4 @@ Full Stack Developer from Argentina :earth_americas:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genarobercini/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bercinigenaro@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493413029601)
+[![Website Badge](https://img.shields.io/badge/Portfolio-18436E?style=for-the-badge&logo=realm&logoColor=ff6f6f)](https://genarobercini.vercel.app/)
