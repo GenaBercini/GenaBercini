@@ -1,11 +1,29 @@
 <img src='https://user-images.githubusercontent.com/86481813/179076835-776d55fb-d243-46d3-845c-cc5209175ed3.gif'/>
-<h2 align="center">
-Full Stack Developer from Argentina :earth_americas:
-</h2>
-<h3 align="center">About me</h3>⁣
-  <p align="center"><b>Hello!</b> my name is Genaro I am 22 years old and I live in Rosario, Santa Fe, Argentina.</p><br>
- <p align="center">At the beginning of 2021 I started practicing web programming as a hobby. At middle of 2021, I decided to change the direction of my life starting to study with a purpose and more intensively that new passion I had found. At the end of 2021 I found Henry and a great opportunity to exponentially increase my knowledge of the IT world. At this moment I am at the end of Henry’s final stage and I’m very eager to demonstrate my technical and soft skills.</p>
-<h4 align="center">If you want to know more about me, contact me</h4>
+<hr/>
+<h1 align="center"> Full Stack Developer </h1>
+<div>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genarobercini/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bercinigenaro@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Portfolio-18436E?style=for-the-badge&logo=realm&logoColor=ff6f6f)](https://genarobercini.vercel.app/)
+
+</div>
+<p align="center">
+    <em>
+      I'm <b>Full-Stack</b> Developer oriented to <b>Front-End</b>. <br>
+      Constantly <b>learning</b> and improving my <b>professional skills 💻</b>
+    </em> 
+    <br>
+  </p>
+ <img align="right" width="400px" height="300px" alt="programmer" src="https://user-images.githubusercontent.com/86481813/179087634-d1ce2bc7-59a2-43dd-9324-5579a0faf72c.gif" />
+  
+  **About me...**
+  
+  🔷 I’m currently looking for my first **work experience**<br>
+  🔷 I’m doing a Salesforce course with **XDLabs**<br>
+  🔷 I’m improve my qualifications with **Typescript** and **React Native**<br>
+  🔷 Always available to learn more about **Technology**<br>
+  🔷 **Contact me** to find out more about me 😁.<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/html_bquhfc.png" title='HTML' alt='HTML' width="40" height="40"/> </a>
@@ -23,7 +41,10 @@ Full Stack Developer from Argentina :earth_americas:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669570/Portfolio/Skills/git_eoefu5.png" alt="Git" title='Git' width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/github_ozvo4h.png" alt="GitHub" title='GitHub' width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Linux " target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1653669571/Portfolio/Skills/linux_b0d3my.png" alt="Linux" title='Linux' width="40" height="40"/> </a>
-<h3>:pushpin: My proyects</h3>
+</p>
+ <hr>
+<h3 align='center'>:pushpin: My proyects</h3>
+<p>
 <p align="center"><b>Foods App</b></p>
 <p align="center">
 <a href='https://foods-page.vercel.app/'/><img src='https://user-images.githubusercontent.com/86481813/169378407-647857a7-1a91-4c4c-ba49-42c3ff19418c.png' width='49%'/></a>
@@ -42,8 +63,3 @@ Full Stack Developer from Argentina :earth_americas:
 <a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/168863677-74c6c518-860d-4f5f-b781-cf238fb169b0.png' width='49%'/></a>
 <a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/168863917-8f3c8acd-3894-4f8a-98a8-c50532905bfd.png' width='49%'/></a>
 </p>
-<h2 align="left">:blush: Connect with me:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genarobercini/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bercinigenaro@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Portfolio-18436E?style=for-the-badge&logo=realm&logoColor=ff6f6f)](https://genarobercini.vercel.app/)
