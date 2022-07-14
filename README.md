@@ -1,5 +1,4 @@
-<img src='https://user-images.githubusercontent.com/86481813/171028927-eb23de22-21e0-4cd0-ac9d-2386a5c84c3e.gif'/>
-
+<img src='https://user-images.githubusercontent.com/86481813/179076835-776d55fb-d243-46d3-845c-cc5209175ed3.gif'/>
 <h2 align="center">
 Full Stack Developer from Argentina :earth_americas:
 </h2>
