@@ -11,7 +11,7 @@
 <p align="center">
     <em>
       I'm <b>Full-Stack</b> Developer oriented to <b>Front-End</b>. <br>
-      Constantly <b>learning</b> and improving my <b>professional skills 💻</b>
+      Constantly <b>learning</b> and <b>improving</b> my <b>professional skills 💻</b>
     </em> 
     <br>
   </p>
