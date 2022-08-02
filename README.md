@@ -62,7 +62,7 @@
 <a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/168863677-74c6c518-860d-4f5f-b781-cf238fb169b0.png' width='49%'/></a>
 <a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/168863917-8f3c8acd-3894-4f8a-98a8-c50532905bfd.png' width='49%'/></a>
 </p>
-<p align="center">Note</p>
+<p align="center"><b>Note</b></p>
 <p align="center">
 <img src='https://user-images.githubusercontent.com/86481813/181872090-e47cc8ff-8bbd-4b4c-b296-8b2b1715c965.png' width='16%'/>
 <img src='https://user-images.githubusercontent.com/86481813/181872104-8cf2e2fe-14fc-4617-bddc-b9f23d94ebbc.png' width='16%'/>
