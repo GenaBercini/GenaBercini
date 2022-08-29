@@ -76,7 +76,7 @@
 </p>
 <p align="center"><b>Clon Mercado Libre Details</b></p>
 <p align="center">
-<a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/187216398-1e276124-e3a1-4439-bfb5-5c8c1a4ab36c.png' width='49%'/></a>
-<a href='https://markets-center.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/187216684-9e05296f-7a1d-4d33-a58f-d9975acf62c3.png' width='49%'/></a>
+<a href='https://mercadolibre-details.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/187216398-1e276124-e3a1-4439-bfb5-5c8c1a4ab36c.png' width='49%'/></a>
+<a href='https://mercadolibre-details.vercel.app/' width='30%'/><img src='https://user-images.githubusercontent.com/86481813/187216684-9e05296f-7a1d-4d33-a58f-d9975acf62c3.png' width='49%'/></a>
 </p>
 </p>
