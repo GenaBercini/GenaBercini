@@ -19,7 +19,7 @@
   
   **About me...**
   
-  🔷 I’m currently looking for my first **work experience**<br>
+  🔷 I’m currently working at **Henry** as **Henry Mentor**<br>
   🔷 I’m improve my qualifications with **Typescript** and **React Native**<br>
   🔷 Always available to learn more about **Technology**<br>
   🔷 **Contact me** to find out more about me 😁.<br>
