@@ -20,7 +20,7 @@
   **About me...**
   
   🔷 I’m currently working at **Henry** as **Henry Mentor**<br>
-  🔷 I’m improve my qualifications with **Typescript** and **React Native**<br>
+  🔷 I’m improve my qualifications with **Typescript**, **NestJS** and **NextJS**<br>
   🔷 Always available to learn more about **Technology**<br>
   🔷 **Contact me** to find out more about me 😁.<br>
 <h3 align="center">Languages and Tools:</h3>
