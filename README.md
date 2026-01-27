@@ -8,8 +8,8 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-18436E?style=for-the-badge&logo=realm&logoColor=ff6f6f)](https://genarobercini.netlify.app/)
 
 </div>
- <img align="right" width="400px" height="300px" alt="programmer" src="https://user-images.githubusercontent.com/86481813/179087634-d1ce2bc7-59a2-43dd-9324-5579a0faf72c.gif" />
-  
+ <img align="right" width="400px" height="300px" alt="programmer" src="https://github.com/user-attachments/assets/8e12b45f-92b5-4c46-8a23-b1f2f30e2b8c" />
+
   **Sobre mi...**
   
 🔷 Full-Stack Developer con enfoque en soluciones escalables y trabajo colaborativo  <br>
