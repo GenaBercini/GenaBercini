@@ -1,6 +1,5 @@
 <img width="1267" height="385" alt="Captura de pantalla 2026-01-26 125834 3" src="https://github.com/user-attachments/assets/fa9f27fa-2c3a-47eb-8c0b-167623b96e97" />
 <hr>
-<h1 align="center"> Desarrollador Full-Stack </h1>
 <div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genarobercini/)
@@ -12,7 +11,8 @@
 
   **Sobre mi...**
   
-🔷 Full-Stack Developer con enfoque en soluciones escalables y trabajo colaborativo  <br>
+🔷 Desarrollador Full-Stack con formacion avanzada en Ingenieria en Sistemas de Informacion  <br>
+🔷 Enfoque en soluciones escalables y trabajo colaborativo <br>
 🔷 Mentor en Henry, participando en liderazgo técnico y dinámicas ágiles   <br>
 🔷 Stack principal: JavaScript, TypeScript, React, Node.js, Next.js   <br>
 🔷 Experiencia con bases de datos SQL y NoSQL   <br>
