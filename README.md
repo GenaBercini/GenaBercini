@@ -1,7 +1,7 @@
 <img width="1267" height="385" alt="Captura de pantalla 2026-01-26 125834 3" src="https://github.com/user-attachments/assets/fa9f27fa-2c3a-47eb-8c0b-167623b96e97" />
 <hr>
 <div>
- <img align="right" width="400" height="400" alt="9541c891-70af-4da6-9221-1fa15750a023" src="https://github.com/user-attachments/assets/59d99340-932e-42ec-834c-af8233569a1b" />
+ <img align="right" width="350" height="350" alt="9541c891-70af-4da6-9221-1fa15750a023" src="https://github.com/user-attachments/assets/59d99340-932e-42ec-834c-af8233569a1b" />
 <div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genarobercini/)
