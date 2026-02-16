@@ -1,13 +1,14 @@
 <img width="1267" height="385" alt="Captura de pantalla 2026-01-26 125834 3" src="https://github.com/user-attachments/assets/fa9f27fa-2c3a-47eb-8c0b-167623b96e97" />
 <hr>
 <div>
+ <img align="right" width="400" height="400" alt="9541c891-70af-4da6-9221-1fa15750a023" src="https://github.com/user-attachments/assets/59d99340-932e-42ec-834c-af8233569a1b" />
+<div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genarobercini/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bercinigenaro@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Portfolio-18436E?style=for-the-badge&logo=realm&logoColor=ff6f6f)](https://genarobercini.netlify.app/)
 
 </div>
- <img align="right" width="400px" height="300px" alt="programmer" src="https://github.com/user-attachments/assets/8e12b45f-92b5-4c46-8a23-b1f2f30e2b8c" />
 
   **Sobre mi...**
   
@@ -31,6 +32,7 @@
 <a href="https://nestjs.com/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1769474544/Portfolio/Skills/NestJS_opqt9b.svg" alt="NestJS" title='NestJS' width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank"> <img src="https://res.cloudinary.com/genaro-bercini/image/upload/v1769474515/Portfolio/Skills/nextjs-icon_qiha0w.svg" alt="NextJS" title='NextJS' width="40" height="40"/> </a>
 </p>
+</div>
  <hr>
 <h3 align='center'>:pushpin: Mis Proyectos</h3>
 <p>
